@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Tailwind CSS CRUD Application
 
 A modern, production-ready **CRUD (Create, Read, Update, Delete)** application built with **React 19**, **Tailwind CSS v4**, **Axios**, and **JSON-Server** (with automatic LocalStorage fallback).
@@ -101,3 +102,7 @@ CRUD/
 - **JSON-Server**
 - **Lucide React** (Modern feather icons)
 - **Concurrently**
+=======
+# CRUD
+ReactJS concept daily Practice.
+>>>>>>> 4ee8632f16ddb48e5d1946c4d40e857662ae0929
